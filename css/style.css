@@ -158,31 +158,31 @@ ul{
     border-radius: 25px;
     border: 2px solid #8C43FF;
     padding: 10px; 
-    margin: 0px 30px 0px 30px;
+    margin: 0px 70px 0px 70px;
     width: auto;
-    height: auto;
+    height: 600px;
     overflow: auto;
 }
 
 .frontElement{
-    float: right;
+    float: center;
     border-radius: 25px;
     border: 2px solid #8C43FF;
     padding: 10px; 
-    margin: 0px 30px 0px 30px;
+    margin: 0px 70px 0px 70px;
     width: auto;
-    height: auto;
+    height: 600px;
     overflow: auto;
 }
 
 .backElement{
-    float: center;
-    border-radius: 25px;   
+    float: right;
+    border-radius: 25px;
     border: 2px solid #8C43FF;
     padding: 10px; 
-    margin: 0px 30px 0px 30px;
+    margin: 0px 70px 0px 70px;
     width: auto;
-    height: auto;
+    height: 600px;
     overflow: auto;
 }
 
